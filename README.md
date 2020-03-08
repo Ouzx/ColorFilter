@@ -1,2 +1,2 @@
 # ColorFilter
-Seçilen rengi, istenilen oranda, ilgili resimden kaldırır.
+You can remove any-color from any image. Just upload image and pick a color. That's it!
